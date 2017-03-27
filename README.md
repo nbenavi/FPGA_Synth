@@ -1,10 +1,10 @@
-#FPGA Synthesizer
+# FPGA Synthesizer
 
 Project in FPGASynth_Project Folder
 
-# Requirments 
+## Requirments 
 
-## Install ScyPi Stack:
+### Install ScyPi Stack:
 
 We use ScyPi for signals such as sawtooth
 
