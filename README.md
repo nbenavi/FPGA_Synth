@@ -1,6 +1,6 @@
 # FPGA Synthesizer
 
-Project in FPGASynth_Project Folder
+An FPGA Synthesizer implemented in Magma.
 
 ## Requirments 
 
